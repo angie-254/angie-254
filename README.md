@@ -2,9 +2,9 @@
 - 👀 I’m interested in full-stack development and cybersecurity
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ... 
-- 😄 Pronouns: She
-- ⚡ Fun fact: ...
+- 📫 How to reach: https://www.linkedin.com/in/janiceangella/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love calisthenics
 
 <!---
 angie-254/angie-254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

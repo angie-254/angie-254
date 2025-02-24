@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @angie-254
+- This is my initial github: https://github.com/Angie-540
 - 👀 I’m interested in full-stack development and cybersecurity
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach: https://www.linkedin.com/in/janiceangella/
+- 📫 How to reach me: https://www.linkedin.com/in/janiceangella/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love calisthenics
 

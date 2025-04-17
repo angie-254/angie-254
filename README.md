@@ -1,8 +1,9 @@
 - THIS IS MY INITIAL GITHUB REPOSITORY: https://github.com/Angie-540
 
 - 👋 Hi, I’m @angie-254
-- 👀 I’m interested in full-stack development and cybersecurity
-- 🌱 I’m currently learning JAVA
+- 👀 I’m a full-stack developer, MERN techstack.
+- I also a cybersecurity enthusiast.
+- 🌱 I’m currently learning JAVA and C#.
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: https://www.linkedin.com/in/janiceangella/
 - 😄 Pronouns: She/her

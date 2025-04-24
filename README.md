@@ -1,7 +1,7 @@
 - THIS IS MY INITIAL GITHUB REPOSITORY: https://github.com/Angie-540
 
 - 👋 Hello, I’m @angie-254
-- 👀 I’m a full-stack developer, MERN techstack.
+- 👀 I’m a full-stack Javascript developer( MERN techstack).
 - ✨ I'm also a cybersecurity enthusiast.
 - 🌱 I’m currently learning JAVA and C#.
 - 💞️ I’m looking to collaborate on interesting projects

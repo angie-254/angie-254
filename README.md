@@ -4,7 +4,7 @@
 - 👀 I’m a full-stack Javascript developer( MERN techstack).
 - ✨ I'm also a cybersecurity graduate and enthusiast.
 - 🌱 I’m currently learning JAVA and C#.
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to forward collaborate on interesting projects
 - 📫 How to reach me: https://www.linkedin.com/in/janiceangella/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm trying out calisthenics

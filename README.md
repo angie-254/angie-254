@@ -1,4 +1,4 @@
-- VISIt MY INITIAL GITHUB REPOSITORY: https://github.com/Angie-540
+- VISIT MY INITIAL GITHUB REPOSITORY: https://github.com/Angie-540
 
 - 👋 Hello, i am angie-254
 - 👀 I’m a full-stack Javascript developer( MERN techstack).

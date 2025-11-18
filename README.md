@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](assets/Bottom_up.svg) 
 
 <!--   my-icons -->
 <p align="center">
@@ -6,12 +6,13 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/angie-254/angie-254/graphs/contributors"><img src="https://img.shields.io/github/contributors/Mkiige/Mkiige?color=blue"></a>
     <a href="https://github.com/angie-254/angie-254/stargazers"><img src="https://img.shields.io/github/stars/angie-254/angie-254.svg?logo=github"></a>
-    <a href="https://github.com/angie-254/angie-254/network/members"><img src="https://img.shields.io/github/forks/angie-254/angie-254.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/angie-254/angie-254/network/members"><img src="https://img.shields.io/github/forks/angie-254/angie-254.svg?color=blue&logo=github"></a> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=angie-254.angie-254" alt="visitors"/>   
 </p>
-<p>Visit my intial repo:  <a href="https://github.com/angie-540" />Angie-540</a></p>
+<p>Visit my intial repo:  <a href="https://github.com/angie-540"/>Angie-540</a></p>
 <!--   my-header-img -->
-![](./src/header_.png)
+
+![](/src/header_.png) 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    

@@ -2,7 +2,7 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/Mkiige/Mkiige"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/angie-254"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/Mkiige/Mkiige/graphs/contributors"><img src="https://img.shields.io/github/contributors/Mkiige/Mkiige?color=blue"></a>
     <a href="https://github.com/Mkiige/Mkiige/stargazers"><img src="https://img.shields.io/github/stars/Mkiige/Mkiige.svg?logo=github"></a>

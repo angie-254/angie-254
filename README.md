@@ -9,7 +9,7 @@
     <a href="https://github.com/angie-254/angie-254/network/members"><img src="https://img.shields.io/github/forks/angie-254/angie-254.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=angie-254.angie-254" alt="visitors"/>   
 </p>
-
+<p>Visit my intial repo:  <a href="https://github.com/angie-540" /></p>
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>

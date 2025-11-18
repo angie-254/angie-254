@@ -36,18 +36,18 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Mkiige's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mkiige&hide_border=true&theme=redical)
+![angie-254's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=angie-254&hide_border=true&theme=redical)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Mkiige's github stats](https://github-readme-stats.vercel.app/api?username=Mkiige&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkiige&theme=radical&layout=compact) |
+| ![angie-254's github stats](https://github-readme-stats.vercel.app/api?username=angie-254&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angie-254&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkiige"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angie-254"></img>
 
 
 
 <!--   grid-snake -->
-![](https://github.com/Mkiige/Mkiige/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Mkiige/angie-254/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
@@ -58,13 +58,13 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mkiige" alt="Mkiige" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angie-254" alt="angie-254" /></a>
 </p>
 
 
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/Mkiige/count.svg">  
+<img src="https://profile-counter.glitch.me/angie-254/count.svg">  
 
 counting of visitors to this page in this section started from June 6, 2022
     <a href="https://info.flagcounter.com/wHMU"><img src="https://s11.flagcounter.com/count2/wHMU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>

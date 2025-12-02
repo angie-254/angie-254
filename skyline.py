@@ -16,7 +16,7 @@ ACTIVITY_NAME_TUPLE = namedtuple("activity", "date distance")
 
 def generate_skyline_stl(username, year, running_matrix):
     """
-    Some code of this function is from https://github.com/Mkiige/github-skyline
+    Some code of this function is from https://github.com/angie-254/github-skyline
     """
     max_run_distance = max(running_matrix)
     total_run_distance = sum(running_matrix)
